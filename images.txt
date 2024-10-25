@@ -6,3 +6,4 @@ louislam/dockge:1
 snowdreamtech/frpc
 traffmonetizer/cli_v2
 whyour/qinglong:latest
+ossrs/oryx:5
