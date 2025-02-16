@@ -7,4 +7,4 @@ snowdreamtech/frpc
 traffmonetizer/cli_v2
 whyour/qinglong:latest
 ossrs/oryx:5
-pikuzheng/smartdns:check-edns
+--platform=linux/arm6/v7 pikuzheng/smartdns:check-edns
